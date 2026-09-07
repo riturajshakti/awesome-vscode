@@ -866,6 +866,12 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
+## [Telegraph REST API Client](https://marketplace.visualstudio.com/items?itemName=riturajshakti.telegraph-rest-api-client)
+
+> Lightweight offline REST and GraphQL API client for Visual Studio Code. An alternative to Postman and Thunder Client
+
+![Telegraph REST API Client](https://raw.githubusercontent.com/riturajshakti/telegraph-rest-api-client/main/images/api-request.png)
+
 ## [Text Power Tools](https://marketplace.visualstudio.com/items?itemName=qcz.text-power-tools)
 
 > All-in-one extension for text manipulation: filtering (grep), remove lines, insert number sequences and GUIDs, format content as table, change case, converting numbers and more. Great for finding information in logs and manipulating text.
