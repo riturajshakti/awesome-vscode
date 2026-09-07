@@ -129,6 +129,7 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
   - [Rainbow CSV](#rainbow-csv)
   - [Remote Development](#remote-development)
   - [REST Client](#rest-client)
+  - [Telegraph REST API Client](#telegraph-rest-api-client)
   - [Text Power Tools](#text-power-tools)
   - [Todo Tree](#todo-tree)
   - [Toggle Quotes](#toggle-quotes)
